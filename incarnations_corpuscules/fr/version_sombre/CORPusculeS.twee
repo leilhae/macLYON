@@ -1,0 +1,3272 @@
+:: StoryTitle
+CORPusculeS
+
+
+:: StoryData
+{
+  "ifid": "3ed3eb58-6c96-420d-9963-1f0ae3bc5e42",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "CORPusculeS",
+  "zoom": 0.6
+}
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: \ \[à propos\]\  {"position":"200,525","size":"100,100"}
+CORP`[uscule]`S a été créé par Leïla Haegel, physicienne à l'<span class="external">(link-repeat: "Institut de Physique des 2 Infinis")[(open-url: "https://www.ip2i.in2p3.fr/")]</span> de Lyon / Villeurbanne (CNRS / IN2P3).
+
+Le projet a été réalisé lors d'une résidence au <span class="external">(link-repeat: "Musée d'Art Contemporain de Lyon (macLYON)")[(open-url: "https://www.mac-lyon.com/fr")]</span>  à l'automne 2022. La narration non-linéaire a été programmée à l'aide du logiciel Twine. 
+
+La résidence a été financée par le <span class="external">(link-repeat: "Paris Region Fellowship Program (PRFP)")[(open-url: 'https://parisregion.eu/parisregionfp.html')]</span>, dans le cadre d'une bourse Marie Skłodowska-Curie Action avec comme hôte primaire le  <span class="external">(link-repeat:"Laboratoire Astroparticules et Cosmologie (APC)")[(open-url: 'https://apc.u-paris.fr/APC_CS/')]</span> et hôte secondaire le <span class="external">(link-repeat:"macLYON")[(open-url: 'https://www.mac-lyon.com/fr')]</span>. 
+
+La créatrice remercie l'Union Européenne et la Région Île-de-France pour le financement du PRFP, le PRFP pour l'octroi de la bourse, le macLYON pour l'accueil et le soutien au projet, le Laboratoire APC en tant qu'hôte primaire et pour l'accord de l'utilisation d'extraits des chercheur·e·s rattaché·e·s, les chercheur·e·s dont des extraits de conférence ont été inclus, ainsi que les développeurs et utilisateurs de Twine pour avoir créé et fourni la documentation de ce logiciel open-source.
+
+[[Démarrer|CORPusculeS]]
+
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (H) {"position":"1050,2425","size":"100,100"}
+Le boson de Higgs (H) est la seule particule de son type. Son champ remplit l'[[espace|J.Errard01]] et se couple aux [[particules élémentaires |particules]] pour leur donner leur masse. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (WZ) {"position":"1050,2175","size":"100,100"}
+Les bosons W(text-style: "superscript")[+/-] et Z(text-style: "superscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] faible. 
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (e) {"position":"500,1150","size":"100,100"}
+L'électron est une [[particule élémentaire|particules]], de charge électrique négative. Il orbite autour des [[noyaux atomiques|noyau]].
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (g) {"position":"1050,2300","size":"100,100"}
+Les gluons (g) (text-style: "subscript")[+/-] et Z(text-style: "subscript")[0] sont des [[particules élémentaires |particules]] transmettant la [[force nucléaire |S.ElHedri01]] forte. Ils permettent de confiner les [[quarks|(q)]] à l'intérieur des nucléons composant les [[noyaux atomiques|noyau]]. 
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (n) {"position":"500,1025","size":"100,100"}
+Les neutrons sont des particule non-élémentaire, de charge électrique neutre, composée de trois quarks [[(q)]] (un quarks up et deux quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composée de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (p) {"position":"500,900","size":"100,100"}
+Les protons sont des particules non-élémentaires, de charge électrique positive, composées de trois quarks [[(q)]] (deux quarks up et un quark down). Ils se trouvent au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3) Constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (q) {"position":"500,1275","size":"100,100"}
+Les quarks sont des [[particules élémentaires|particules]], au nombre de six: up (u), down (d), charm (c), strange (s), top (t), bottom (b). Seule particule élémentaire connue ayant une charge électrique partielle (+2/3 ou -1/3), ils constituent les protons [[(p)]] et neutrons [[(n)]] au coeur des [[noyaux atomiques|noyau]].
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (γ) {"position":"1050,2050","size":"100,100"}
+Le photon (γ) est une [[particule élémentaire |particules]] transmettant la force électromagnétique. Le photon compose la [[lumière|J.Errard02]]. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (μ) {"position":"1050,1800","size":"100,100"}
+Le muon (μ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]], mais dont la masse est plus élevée. 
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (ν) {"position":"1050,2550","size":"100,100"}
+Les neutrinos (ν(text-style: "subscript")[e],ν(text-style: "subscript")[μ],ν(text-style: "subscript")[τ]) sont des [[particules élémentaires |particules]] qui existent en trois types associés à l'[[électron|(e)]], au [[muon|(μ)]] et au [[tau|(τ)]]. Ils sont créés par la [[force nucléaire faible|(WZ)]].
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le muon (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: (τ) {"position":"1050,1925","size":"100,100"}
+Le tau (τ) est une [[particule élémentaire |particules]] dont les propriétés sont les mêmes que les [[électrons|(e)]] et les muons [[(μ)]], mais dont la masse est plus élevée. 
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere01 {"position":"200,900","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/galaxie_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//" Ce qu'on voit au centre, cette espèce de galette, c'est juste notre galaxie qu'on voit par la tranche, parce que comme je vous montre ici on habite dans une galaxie qui s'appelle [[La Voie Lactée|mouvement constant]]. C'est une galaxie elliptique, et on est sur le bord et on est à l'intérieur, et donc quand on la regarde et on la voit par la tranche, on voit une espèce de de galette aplatie. Donc c'est ça qu'on voit, et puis on voit les [[étoiles]], majoritairement les petits points blancs. "//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: A.Lemiere02 {"position":"200,1025","size":"100,100"}
+\:: Anne Lemière, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_lemiere_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"La nature de la [[matière|J.Errard02]] dans l'Univers, ce n'est pas seulement dans les [[étoiles]], dans les nuages de gaz, mais elle est aussi sous forme de [[particules chargées|E.Parizot02]], qui baigne l'Univers entier et qui [[bombardent|E.Parizot01]] la Terre à chaque instant"//
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#03A9F4)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#E74C3C)[rouge] sont des passages déjà visités, et les mots en (text-colour:#2ECC71)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[rouge] sont des passages déjà visités, et les mots en (text-colour:#00c853)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[rouge] sont des passages déjà visités, et les mots en (text-colour:#00c853)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[rouge] sont des passages déjà visités, et les mots en (text-colour:#00c853)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[rouge] sont des passages déjà visités, et les mots en (text-colour:#00c853)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[bleu] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[rouge] sont des passages déjà visités, et les mots en (text-colour:#00c853)[vert] sont des liens externes.
+La flèche grise (text-colour:grey)[&#10554;]  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[ [à propos] ]] 
+
+
+
+
+:: CORPusculeS {"position":"200,400","size":"100,100"}
+''CORP`[uscule]`S'' est une exploration textuelle, visuelle et sonore de l'exposition <span class="external">(link-repeat: "INCARNATIONS")[(open-url: 'https://www.mac-lyon.com/fr/programmation/incarnations-le-corps-dans-la-collection')]</span> du macLYON. 
+Vous êtes invité·e à naviguer dans une narration non-linéaire, qui relie votre corps aux constituants fondamentaux de la matière qui parsème l'Univers. 
+
+Mode d'emploi
+(click-replace: "Mode d'emploi")[(text-style:"underline")[Mode d'emploi]
+CORP`[uscule]`S peut être consulté lors de l'exposition ou en dehors de celle-ci, sur un téléphone, une tablette ou un ordinateur.
+Vous pouvez choisir d'écouter les extraits sonores, ou de lire leur retranscription pour un mode silencieux. 
+Il suffit de cliquer sur les mots en couleur pour explorer : les mots en (text-colour:#039be5)[''bleu''] sont des passages vers de nouvelles zones, les mots en (text-colour:#bf360c)[''rouge''] sont des passages déjà visités, et les mots en (text-colour:#00c853)[''vert''] sont des liens externes.
+La flèche grise (text-colour:grey)[''&#10554;'']  à gauche du texte permet de revenir au passage précédent.  
+A l'instar d'un circuit veineux, CORP`[uscule]`S n'est pas un chemin linéaire menant à une fin, mais propose l'exploration d'un organisme au travers de nombreux passages que vous pouvez choisir d'emprunter selon vos envies, et qui se recoupent à l'occasion. ]
+[[COMMENCER|Début]]
+
+<div style="text-align: right"> [[ [à propos] ]] &nbsp; &nbsp; 
+<span class="external">(text-colour:#039be5)[(link-repeat: "`[version sombre]`")[(open-url: 'https://leilhae.github.io/macLYON/incarnations_corpuscules/fr/version_sombre/')]]</span> &nbsp; &nbsp; </div>
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: Début {"position":"350,400","size":"100,100"}
+Mon [[corps]] est dans la salle d'exposition.
+Je me [[déplace]] dans l'espace délimité par les murs.
+Ma [[peau]] est frontière entre moi-même et le musée. 
+
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot01 {"position":"200,775","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"Il y a typiquement quatre [[rayons cosmiques|Membrane]] par centimètre carré par seconde sur toute la surface de la Terre, ça arrive du cosmos. Donc c'est quand même pas mal,  c'est un noyau d'[[hydrogène]], un [[proton|(p)]], ça pèse pas lourd ! Mais si on intègre sur toute la surface de la Terre ça fait à peu près 1 kg par an de [[matière extraterrestre|A.Lemiere02]], même extra solaire, ça vient vraiment de toute la [[galaxie|A.Lemiere01]], il y a même un peu de matière extragalactique qui nous parvient."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: E.Parizot02 {"position":"200,1275","size":"100,100"}
+\:: Etienne Parizot, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Rayons cosmiques\" du 13.09.2021")[(open-url: "https://www.youtube.com/watch?v=jMIV93QqIUo")]</span> 
+
+<audio controls>
+  <source src="extraits/rayons_cosmiques_parizot_02.mp3" type="audio/mp3">
+
+</audio>
+
+//"Ça fait des effets [[relativistes|espace-temps]] importants, il y a ce phénomène de dilatation du temps et de contraction des longueurs, vous avez une seconde du temps propre de ces [[particules]] qui dure trois semaines de notre temps à nous."//
+
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard01 {"position":"900,900","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/nucleosynthese_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"C'est vraiment un des succès de la théorie du Big Bang : la prédiction très précise de la quantité d'[[hydrogène]], d'hélium, de lithium, de béryllium dans l'Univers d'aujourd'hui, à travers d'énormes ordres de grandeur, c'est ça qui est vraiment très important. Comme je l'ai dit, la fusion au bout de 10 à 15 minutes n'est plus efficace, et les seuls cas de fusion qu'on pourra avoir dans l'Univers plus récents, ce sera à l'intérieur des coeurs des [[étoiles supermassives|S.ElHedri02]] qui permettent de former tout le reste des éléments du tableau périodique, et donc toute la matière dont nous sommes composés. Voilà ce qui fait dire à Hubert Reeves que nous sommes des [[poussières d'étoiles|étoiles]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: J.Errard02 {"position":"200,1150","size":"100,100"}
+\:: Josquin Errard, chercheur au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Enseigner l'Univers : Les premières minutes\" du 20.05.2021")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/espacetemps_errard_01.mp3" type="audio/mp3">
+
+</audio>
+
+//"L'énergie totale va être reliée à la [[géométrie|déplace]] de l'[[espace-temps]], ce qui est important de voir, et c'est ce qu'a remarqué Lemaître, c'est que dès lors qu'on met une énergie, ou de la [[matière|A.Lemiere02]], de la [[lumière|(γ)]], sur cet espace-temps, celui-ci est forcément dynamique, il est forcément en [[expansion ou en contraction|mouvement constant]]."//
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Membrane {"position":"500,525","size":"100,100"}
+Ma [[peau]] est frontière entre moi-même et l'environnement du musée. 
+Mais je sais cette barrière poreuse.
+Des [[rayons cosmiques|E.Parizot01]] me [[traversent]] alors que je me [[déplace]] dans cette pièce. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: Reliquat {"position":"1025,700","size":"100,100"}
+L'[[hydrogène]] est le premier élement qui s'est créé après le [[Big Bang|J.Errard01]] et l'atome le plus abondant dans l'Univers et dans notre [[corps|cellules]]. 
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émets des [[neutrinos|(ν)]] ! Alors, bien que nous baignons littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrète, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur face plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri01 {"position":"200,650","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/neutrinos_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//"Il y a des réactions ; un peu de radioactivité naturelle partout, des [[réactions nucléaires]] partout, même notre corps émet des [[neutrinos|(ν)]] ! Alors, bien que nous baignions littéralement dans les neutrinos, nous ne les remarquons pas parce que ces particules sont ultra discrètes, en fait elles sont elles [[passent à travers nous|traversent]], on ne peut quasiment pas les arrêter. Si vous essayez de d'arrêter les neutrinos qui viennent vers vous en construisant un mur, il faudrait que le mur fasse plus de dix mille milliards de kilomètres d'épaisseur, et ça juste pour stopper la moitié des neutrinos. "//
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive, de plus de dix fois la masse du soleil. Une façon pour ces étoiles de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: S.ElHedri02 {"position":"900,1025","size":"100,100"}
+\:: Sonia El Hedri, chercheure au Laboratoire Astroparticules et Cosmologie
+\:: <span class="external">(link-repeat: "Conférence \"Women Exploring the Limits, Particules cosmiques\" du 11.02.2022")[(open-url: "https://youtu.be/wGRltthPXR0")]</span> 
+
+<audio controls>
+  <source src="extraits/supernova_elhedri_01.mp3" type="audio/mp3">
+</audio>
+
+//" Une supernova, c'est la [[mort]] d'une étoile extrêmement massive [c’est-à-dire extrêmement lourde], de plus de dix fois la masse du soleil. Une façon pour ces [[étoiles]] de mourir, c'est par exemple d'épuiser tout leur carburant et de s'effondrer sur leur propre poids, là vous voyez cette immense force de gravité qui s'exerce sur l'étoile. Et s'agissant d'un objet aussi gros qu'une étoile, cet effondrement ne va pas se produire tranquillement : la plupart du temps, il va donner lieu à une gigantesque explosion pendant laquelle l'étoile pourra devenir jusqu'à 10 milliards de fois plus brillante qu'elle ne l'était avant, des fois elle peut éclipser une [[galaxie|A.Lemiere01]]."//
+
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+
+...
+(click-replace: "...")[Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer.] 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+
+...
+(click-replace: "...")[Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer.] 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+
+...
+(click-replace: "...")[Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer.] 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+
+...
+(click-replace: "...")[Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer.] 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON
+
+Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer. 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON
+
+Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer. 
+
+
+
+:: brisent {"position":"500,1525","size":"100,100"}
+<img src="oeuvres/oppenheim.jpg" width="256">
+\:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON
+
+Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magnétique de la Terre, mais certaines [[particules]] parviennent à nous transpercer. 
+
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: carbone {"position":"900,650","size":"100,100"}
+Le carbone est un atome dont le [[noyau]] possède 6 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le quatrième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la fusion de trois atomes d'hélium.
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: cellules {"position":"900,1400","size":"100,100"}
+Mes [[cellules|ughetto]] sont composées d'ADN comportant mes informations génétiques. 
+Les gènes sont composés de [[particules élémentaires|particules]] comportant les [[informations quantiques]]. 
+
+
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui compose mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: corps {"position":"900,400","size":"100,100"}
+On estime à 30 mille milliards le nombre de [[cellules]] qui composent mon corps. 
+Elles sont principalement composées d'[[hydrogène]], d'[[oxygène]] et de [[carbone]]. 
+
+
+:: cosmique {"position":"700,1425","size":"100,100"}
+L'Univers observable fait 93 milliards d'[[années-lumière|temps]].
+Sa géométrie fais de l'[[espace-temps]] un [[substrat déformable|J.Errard02]].
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+
+
+:: déplace {"position":"700,400","size":"100,100"}
+Mon corps est le point initial de la [[perception de l'espace]]; l'[[origine]] des axes du repère. 
+
+<span style="font-size: 100%">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;&nbsp;/
+&nbsp;&nbsp;z
+
+</span>
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+
+...
+
+(click-replace: "...")[
+En observant les phénomènes dans l'espace, je découvre le [[temps]].]
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+
+...
+
+(click-replace: "...")[
+En observant les phénomènes dans l'espace, je découvre le [[temps]].]
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+
+...
+
+(click-replace: "...")[
+En observant les phénomènes dans l'espace, je découvre le [[temps]].]
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+
+...
+
+(click-replace: "...")[
+En observant les phénomènes dans l'espace, je découvre le [[temps]].]
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+\:: Collection du macLYON © Adagp
+
+En observant les phénomènes dans l'espace, je découvre le [[temps]].
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+\:: Collection du macLYON © Adagp
+
+En observant les phénomènes dans l'espace, je découvre le [[temps]].
+
+
+
+:: espace {"position":"700,650","size":"100,100"}
+<img src="oeuvres/maciunas.jpg" width="256">
+\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+\:: Collection du macLYON © Adagp, Paris, 2023
+
+En observant les phénomènes dans l'espace, je découvre le [[temps]].
+
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]]. 
+Je le sens rigide, mais je sais qu'il est en réalité un [[substrat déformable|J.Errard02]].
+
+
+:: espace-temps {"position":"700,900","size":"100,100"}
+L'espace-temps à quatre dimensions a une géométrie [[relativiste|E.Parizot02]], où je perçois différement le temps et les volumes d'[[espace|cosmique]] que mon corps traverse par rapport à d'autres corps en mouvement. 
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: hydrogène {"position":"900,525","size":"100,100"}
+L'hydrogène est l'[[atome|noyau]] le plus simple, composé uniquement d'un [[proton|(p)]] autour duquel gravite un [[électron|(e)]]. 
+[[Reliquat]] du Big Bang qui compose la majorité de notre corps.
+
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June PAIK,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+
+...
+
+(click-replace: "...")[
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. ]
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June PAIK,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+
+...
+
+(click-replace: "...")[
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. ]
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June PAIK,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+
+...
+
+(click-replace: "...")[
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. ]
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June PAIK,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+
+...
+
+(click-replace: "...")[
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. ]
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June Paik,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+\:: Collection du macLYON
+
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. 
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June Paik,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+\:: Collection du macLYON
+
+A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]] ont une nature duale : à la fois [[particule|particules]] et [[onde]]. 
+
+
+:: informations quantiques {"position":"900,1775","size":"100,100"}
+<img src="oeuvres/paik.jpg" width="256">
+\:: Nam June Paik,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+\:: Collection du macLYON
+
+A l'échelle quantique, les particules qui composent la [[matière|J.Errard01]] ont une nature duale : elles sont à la fois [[particule|particules]] et [[onde]]. 
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+
+...
+
+(click-replace: "...")[
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. ]
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+
+...
+
+(click-replace: "...")[
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. ]
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+
+...
+
+(click-replace: "...")[
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. ]
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+
+...
+
+(click-replace: "...")[
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. ]
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+\:: Vue de l’exposition Figures de cire de Delphine Balley, 2021, au macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. 
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+\:: Vue de l’exposition Figures de cire de Delphine Balley, 2021, au macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. 
+
+
+
+
+:: mort {"position":"1000,1100","size":"100,100"}
+<img src="oeuvres/balley.jpg" width="512">
+\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+\:: © Adagp, Paris, 2023
+
+
+Sous mes vêtements, mon corps est composé en majorité d'éléments créés lors de la mort des [[étoiles]]. 
+
+
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+
+
+:: mouvement constant {"position":"700,1275","size":"100,100"}
+Mon [[corps]] est ancré à la surface de la Terre qui tourne autour du soleil. 
+Le soleil tourne autour du trou noir au centre de la [[Voie Lactée|A.Lemiere01]].
+La Voie Lactée s'éloigne des autres galaxies car l'[[Univers est en expansion|J.Errard02]]. 
+Pourtant, je ne le sens pas ces mouvements en raison de leur constance et de leur échelle [[cosmique]]. 
+
+<div style="line-height:50%"> 
+<span style="font-size: 35%">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; `*`
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; 
+&nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `*`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; o <---------`*`--------------------------------------  Soleil
+&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*` <--------------------------  Voie Lactée
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`*`&nbsp;&nbsp;&nbsp;&nbsp;`*`
+
+
+</span>
+</div>
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+
+...
+(click-replace: "...")[Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. ]
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+
+...
+(click-replace: "...")[Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. ]
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+
+...
+(click-replace: "...")[Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. ]
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+
+...
+(click-replace: "...")[Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. ]
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+\:: Collection du macLYON 
+
+Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. 
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+\:: Collection du macLYON 
+
+Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. 
+
+
+
+:: mémoire {"position":"900,1275","size":"100,100"}
+<img src="oeuvres/schellow.jpg" width="256">
+\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+\:: Collection du macLYON 
+
+Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. 
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+                .  .  . 
+           .     .   .    . 
+        .   .      .     .   .
+      .  .   .          .   .  .
+    .  .  .                .  .  .
+   . . (e)                   . . .
+  . . .                        . . .
+ . . .                          . . .
+. . .             (p)            . . .
+. . .           (n) (n)          . . .
+. . .             (p)            . . .
+ . . .                          . . .
+  . . .                        . . .
+   . .  .                    . . .
+    .  .  .                .  .  .
+      .  .   .        (e)   .  .
+        .   .      .     .   .
+           .     .   .    . 
+                .  .  . 
+</pre></nowiki>
+
+
+
+:: noyau {"position":"500,775","size":"100,100"}
+Les atomes sont constitués d'un noyau atomique autour duquel tournent les électrons [[(e)]]. Le noyau est composé de protons [[(p)]] et de neutrons [[(n)]]. Les atomes forment la matière qui nous entoure, de notre [[corps]] jusqu'aux [[étoiles|J.Errard01]] et [[rayons cosmiques|Membrane]]. 
+
+
+<nowiki><pre>
+<span style="font-size: 80%">
+               .  .  . 
+          .     .   .    . 
+       .   .      .     .   .
+     .  .   .          .   .  .
+   .  .  .                .  .  .
+  . . (e)                   . .  .
+ . . .                        . .  .
+. . .            (p)           . . .
+. . .          (n) (n)         . . .
+. . .            (p)           . . .
+ . . .                        . . .
+  . .  .                    . .  .
+   .  .  .              (e) .  .
+     .  .   .         .   .  .
+       .   .      .     .   .
+          .     .   .    . 
+               .  .  . 
+</span>
+</pre></nowiki>
+
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: onde {"position":"900,1900","size":"100,100"}
+Les [[particules élémentaires|particules]] sont également des ondes, occupant un volume d'[[espace|déplace]] indéfini. 
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+...
+
+(click-replace: "...")[
+En faisant bouger ce point originel, je découvre l'[[espace]].
+ ]
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+...
+
+(click-replace: "...")[
+En faisant bouger ce point originel, je découvre l'[[espace]].
+ ]
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+...
+
+(click-replace: "...")[
+En faisant bouger ce point originel, je découvre l'[[espace]].
+ ]
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+...
+
+(click-replace: "...")[
+En faisant bouger ce point originel, je découvre l'[[espace]].
+ ]
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+\:: Collection du macLYON © Adagp
+
+En faisant bouger ce point originel, je découvre l'[[espace]].
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+\:: Collection du macLYON © Adagp
+
+En faisant bouger ce point originel, je découvre l'[[espace]].
+
+
+
+
+:: origine {"position":"700,525","size":"100,100"}
+<img src="oeuvres/abramovic_ulay.jpg" width="256">
+\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+\:: Collection du macLYON © Adagp, Paris, 2023
+
+En faisant bouger mon corps et son [[repère]], je découvre l'[[espace]].
+
+
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: oxygène {"position":"900,775","size":"100,100"}
+L'oxygène est un [[atome|noyau]] dont le noyau possède 8 [[protons|(p)]], à la base de la chimie de la vie terrestre. 
+C'est le troisième élement le plus abondant dans l'Univers, produit [[au coeur des étoiles|J.Errard01]] par la [[fusion nucléaire|(WZ)]].
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[e])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[μ])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[τ])]''</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[e])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[μ])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[τ])]''</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[e])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[μ])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[τ])]''</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[e])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[μ])]''</td>
+    <td> [[(ν|(ν)]]''(text-colour:#4ba6ee)[(text-style: "subscript")[τ])]''</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>         
+    <td> [[(ν&#95;e)|(ν)]]</td>
+    <td> [[(ν&#95;μ)|(ν)]]</td>
+    <td> [[(ν&#95;τ)|(ν)]]</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+
+<table>
+  <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>         
+    <td> [[(ν&#95;e)|(ν)]]</td>
+    <td> [[(ν&#95;μ)|(ν)]]</td>
+    <td> [[(ν&#95;τ)|(ν)]]</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+
+
+
+:: particules {"position":"900,1525","size":"100,100"}
+<span style="font-size: 80%">
+
+<table>
+    <tr>
+    <td> Les particules élémentaires
+      </tr>
+</table> 
+
+<table>
+    <tr>
+    <td> [[(e)]] </td>
+    <td> [[(μ)]] </td>
+    <td> [[(τ)]]</td>
+    <td> &nbsp; &nbsp;  &nbsp; [[(γ)]] </td>
+  </tr>
+  <tr>         
+    <td> (link-goto: "(ν<sub>e</sub>)", "(ν)")</td>
+    <td> (link-goto: "(ν<sub>μ</sub>)", "(ν)")</td>
+    <td> (link-goto: "(ν<sub>τ</sub>)", "(ν)")</td>
+    <td> &nbsp; &nbsp; &nbsp;  [[(W)|(WZ)]] </td>
+  </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td> [[(u)|(q)]] </td>
+    <td> [[(c)|(q)]] </td>
+    <td> [[(t)|(q)]] </td>
+    <td> &nbsp; &nbsp; &nbsp; [[(Z)|(WZ)]] </td>
+  </tr>
+  <tr>
+    <td> [[(d)|(q)]] </td>
+    <td> [[(s)|(q)]] </td>
+    <td> [[(b)|(q)]] </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(g)]] </td>
+  </tr>
+    </tr>
+    <tr style="border-bottom: solid 1px ">
+    <td colspan="100%"></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &nbsp;  &nbsp; &nbsp; [[(H)]] </td>
+  </tr>
+</table> 
+</span>
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+// Bruce NAUMAN, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+
+...
+(click-replace: "...")[La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. ]
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+// Bruce NAUMAN, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+
+...
+(click-replace: "...")[La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. ]
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+// Bruce NAUMAN, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+
+...
+(click-replace: "...")[La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. ]
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+// Bruce NAUMAN, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+
+...
+(click-replace: "...")[La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. ]
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+\:: Bruce Nauman, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+\:: Collection du macLYON © Adagp
+
+La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. 
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+\:: Bruce Nauman, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+\:: Collection du macLYON © Adagp
+
+La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. 
+
+
+:: peau {"position":"500,400","size":"100,100"}
+<img src="oeuvres/nauman.jpg" width="256">
+\:: Bruce Nauman, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+\:: Collection du macLYON © Adagp, Paris, 2023
+
+La peau est le plus grand organe du [[corps]] humain. 
+[[Membrane]] qui nous sépare du monde sensible. 
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: perception de l'espace {"position":"700,1025","size":"100,100"}
+Je me sens immobile dans mon [[repère]] mais je me sais en [[mouvement constant]]. 
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+Je peux choisir de détacher le [[repère|perception de l'espace]] de mon corps et d'attacher ses axes à d'autres points pour explorer l'[[espace|espace]].
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+
+
+
+:: repère {"position":"700,1150","size":"100,100"}
+L'orientation du repère n'a pas d'importance, car toutes les directions se valent dans l'[[espace-temps]]. 
+
+<span style="font-size: 100%">
+
+&nbsp; z
+&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp; ``\``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  _ _ _ _ _ _ x
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y
+</span>
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: réactions nucléaires {"position":"900,1650","size":"100,100"}
+Au coeur de mes cellules, certains [[atomes|noyau]] se désintègrent en éléments plus légers. 
+J'émets des [[radiations|S.ElHedri01]] comme un [[soleil|étoiles]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+
+
+:: temps {"position":"700,775","size":"100,100"}
+L'espace et le temps sont couplés dans l'[[espace-temps]]. 
+Cela a été révélé par la vitesse constante de la lumière, qui traverse 9.4 trillions de kilomètres* en une année, ce qui défini l'[[année-lumière|cosmique]]. 
+
+``*`` 9 400 milliards de kilomètres
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+
+...
+(click-replace: "...")[Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.] 
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+
+...
+(click-replace: "...")[Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.] 
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+
+...
+(click-replace: "...")[Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.] 
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+
+...
+(click-replace: "...")[Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.] 
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpeg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.
+
+
+
+:: traversent {"position":"500,1400","size":"100,100"}
+<img src="oeuvres/dubien.jpg" width="256">
+\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
+Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres [[brisent]] mon ADN.
+
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry UGHETTO, Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé), 1970
+\::  <span class="external">(link-repeat: "Plus d'informations")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span> 
+
+...
+(click-replace: "...")[Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.] 
+
+
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry UGHETTO, Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé), 1970
+\::  <span class="external">(link-repeat: "Plus d'informations")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span> 
+
+...
+(click-replace: "...")[Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.] 
+
+
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry UGHETTO, Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé), 1970
+\::  <span class="external">(link-repeat: "Plus d'informations")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span> 
+
+...
+(click-replace: "...")[Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.] 
+
+
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry UGHETTO, Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé), 1970
+\::  <span class="external">(link-repeat: "Plus d'informations")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span> 
+
+...
+(click-replace: "...")[Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.] 
+
+
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry Ughetto, <span class="external">(link-repeat: "Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry Ughetto, <span class="external">(link-repeat: "Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.
+
+
+:: ughetto {"position":"1025,1525","size":"100,100"}
+<img src="oeuvres/ughetto.jpg" width="256">
+\:: Henry Ughetto, <span class="external">(link-repeat: "Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
+
+Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la [[matière|noyau]].
+Notre corps est une [[mémoire]] stellaire.
+
+
+
+
+:: étoiles {"position":"900,1150","size":"100,100"}
+Les étoiles sont les usines de la matière, fusionnant les [[noyaux|noyau]] dans leur coeur pour créer de nouveaux atomes. 
+Les atomes qui composent nos cellules sont alors une [[mémoire]] stellaire.
+
+
+
+:: StoryStylesheet [stylesheet]
+/* COLORS */
+/*
+tw-story {
+	background-color: #FFDAB9;
+	color: black;
+	font-family: Courier;
+}
+*/
+
+tw-story {
+	background-color: black;
+	color: white;
+	font-family: Courier;
+}
+
+tw-passage {
+	font-family: Courier;
+}
+
+tw-link {
+	color:#039be5;
+}
+
+tw-link.visited {
+	color:#bf360c;
+}
+
+tw-enchantment.link {
+	color:#039be5
+}
+
+.external tw-hook tw-link {
+	color:#00c853;
+}
+
+
+/* TABLE */
+
+table {
+	margin-right: auto;
+	margin-left: auto;	
+	width: 512;
+	/*border: solid 1px; */
+	padding: 12px;
+}
+
+th, td {
+	text-align: center;
+	padding: 12px
+    /*border-left: solid 1px;*/
+}
+
+td:first-child {
+    border-left: none;
+}
+
+
