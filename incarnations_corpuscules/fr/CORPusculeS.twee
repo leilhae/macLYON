@@ -4,7 +4,7 @@ CORPusculeS
 
 :: StoryData
 {
-  "ifid": "3ed3eb58-6c96-420d-9963-1f0ae3bc5e42",
+  "ifid": "850e01d6-b611-413c-958b-67c8b4c183fd",
   "format": "Harlowe",
   "format-version": "3.3.4",
   "start": "CORPusculeS",
@@ -3214,20 +3214,19 @@ Les atomes qui composent nos cellules sont alors une [[mémoire]] stellaire.
 
 :: StoryStylesheet [stylesheet]
 /* COLORS */
-/*
 tw-story {
 	background-color: #FFDAB9;
 	color: black;
 	font-family: Courier;
 }
-*/
 
+/*
 tw-story {
 	background-color: black;
 	color: white;
 	font-family: Courier;
 }
-
+*/
 tw-passage {
 	font-family: Courier;
 }
