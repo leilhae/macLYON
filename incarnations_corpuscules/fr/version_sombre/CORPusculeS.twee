@@ -6,7 +6,7 @@ CORPusculeS
 {
   "ifid": "850e01d6-b611-413c-958b-67c8b4c183fd",
   "format": "Harlowe",
-  "format-version": "3.3.5",
+  "format-version": "3.3.6",
   "start": "CORPusculeS",
   "zoom": 0.6
 }
@@ -1403,7 +1403,6 @@ Nous sommes protégés des [[rayons cosmiques|E.Parizot01]] par le bouclier magn
 
 
 :: brisent {"position":"500,1525","size":"100,100"}
-<img src="oeuvres/oppenheim.jpg" width="256">
 \:: Dennis Oppenheim, <span class="external">(link-repeat: "Glassed Hand")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001325?filters=query%3AGlassed%20Hand&page=1&layout=grid&sort=by_author")]</span>, 1970
 \:: Collection du macLYON
 
@@ -1726,8 +1725,7 @@ En observant les phénomènes dans l'espace, je découvre le [[temps]].
 
 
 :: espace {"position":"700,650","size":"100,100"}
-<img src="oeuvres/maciunas.jpg" width="256">
-\:: George Maciunas, <span class="external">(link-repeat: "Fluxpost (Aging Men)")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>, début 1970
+\:: <span class="external">(link-repeat: "George Maciunas, Fluxpost (Aging Men), début 1970")[(open-url: "https://www.navigart.fr/mac-lyon/artworks?filters=query%3AFLUXPOST (Aging Men)&page=1&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON © Adagp, Paris, 2023
 
 En observant les phénomènes dans l'espace, je découvre le [[temps]].
@@ -1868,8 +1866,7 @@ A l'échelle quantique, les corpuscules qui composent la [[matière|J.Errard01]]
 
 
 :: informations quantiques {"position":"900,1775","size":"100,100"}
-<img src="oeuvres/paik.jpg" width="256">
-\:: Nam June Paik,  <span class="external">(link-repeat: "Cinema Metaphysique : No 2, 3 et 4")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>, 1967 - 1972
+\:: <span class="external">(link-repeat: "Nam June Paik,  Cinema Metaphysique : No 2, 3 et 4, 1967 - 1972")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001173?filters=query%3Anam%20june%20paik&page=2&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON
 
 A l'échelle quantique, les particules qui composent la [[matière|J.Errard01]] ont une nature duale : elles sont à la fois [[particule|particules]] et [[onde]]. 
@@ -1946,8 +1943,7 @@ Sous mes vêtements, mon corps est composé en majorité d'éléments créés lo
 
 
 :: mort {"position":"1000,1100","size":"100,100"}
-<img src="oeuvres/balley.jpg" width="512">
-\:: Delphine Balley, <span class="external">(link-repeat: "Représentation")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>, 2021
+\:: <span class="external">(link-repeat: "Delphine Balley, Représentation, 2021")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000062879?filters=query%3ADelphine%20BALLEY&page=1&layout=grid&sort=by_author")]</span>
 \:: © Adagp, Paris, 2023
 
 
@@ -2081,8 +2077,7 @@ Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedr
 
 
 :: mémoire {"position":"900,1275","size":"100,100"}
-<img src="oeuvres/schellow.jpg" width="256">
-\:: Alexander Schellow, <span class="external">(link-repeat: "Ohne Title ( Fragment)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>, 2007 - 2011
+\:: <span class="external">(link-repeat: "Alexander Schellow, Ohne Title ( Fragment), 2007 - 2011")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000020792?filters=query%3Aohne&page=1&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON 
 
 Comme nos souvenirs, les atomes de nos [[cellules]] se [[désintègrent|S.ElHedri01]]. 
@@ -2382,8 +2377,7 @@ En faisant bouger ce point originel, je découvre l'[[espace]].
 
 
 :: origine {"position":"700,525","size":"100,100"}
-<img src="oeuvres/abramovic_ulay.jpg" width="256">
-\:: Marina Abramović & Ulay, <span class="external">(link-repeat: "Vidéo-Performances")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>, 1976-1988
+\:: <span class="external">(link-repeat: "Marina Abramović & Ulay, Vidéo-Performances, 1976-1988")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001209?filters=query%3Aincision&page=1&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON © Adagp, Paris, 2023
 
 En faisant bouger mon corps et son [[repère]], je découvre l'[[espace]].
@@ -2796,8 +2790,7 @@ La peau est le plus grand organe du [[corps]] humain.
 
 
 :: peau {"position":"500,400","size":"100,100"}
-<img src="oeuvres/nauman.jpg" width="256">
-\:: Bruce Nauman, <span class="external">(link-repeat: "Thighing")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span>, vers 1967 
+\:: <span class="external">(link-repeat: "Bruce Nauman, Thighing, vers 1967")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000001155?filters=category_query%3Atitles%3Athighing&page=1&layout=grid&sort=by_author")]</span> 
 \:: Collection du macLYON © Adagp, Paris, 2023
 
 La peau est le plus grand organe du [[corps]] humain. 
@@ -3087,8 +3080,7 @@ Certains n'ont [[aucune interaction|S.ElHedri01]] avec moi, tandis que d'autres 
 
 
 :: traversent {"position":"500,1400","size":"100,100"}
-<img src="oeuvres/dubien.jpg" width="256">
-\:: Edi Dubien, <span class="external">(link-repeat: "Synergie")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>, 2020
+\:: <span class="external">(link-repeat: "Edi Dubien, Synergie, 2020")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000059577?filters=query%3Asynergie&page=1&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
 
 Je ne les sens pas mais ces [[rayons|E.Parizot01]] transpercent mon [[corps]] en permanence.  
@@ -3157,8 +3149,7 @@ Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un asse
 
 
 :: ughetto {"position":"1025,1525","size":"100,100"}
-<img src="oeuvres/ughetto.jpg" width="256">
-\:: Henry Ughetto, <span class="external">(link-repeat: "Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé)")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span>, 1970
+\:: <span class="external">(link-repeat: "Henry Ughetto, Ensemble de ventres découpés 1 000 000 gouttes (ou morceau de ventre découpé), 1970")[(open-url: "https://www.navigart.fr/mac-lyon/artwork/80000000000469?filters=query%3Aughetto&page=1&layout=grid&sort=by_author")]</span>
 \:: Collection du macLYON © Photo : Blaise Adilon © Adagp, Paris, 2023
 
 Comme mon [[corps]] est un assemblage de cellules, mes [[cellules]] sont un assemblages de particules.
